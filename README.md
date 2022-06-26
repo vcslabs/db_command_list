@@ -5,7 +5,7 @@
 `mysql.server start`
 
 
-* localhostのMySQLサーバに接続する場合(mysqlが起動している状態で)  
+* localhostのMySQLサーバに接続する場合(mysqlが起動している状態で実行)  
   `mysql -u [ユーザー名] -p`
 
 
